@@ -97,10 +97,3 @@ Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicació
 Fecha publicación: 10 de junio de 2020
 
 Fecha de actualización: 14 de junio de 2020
-
-----------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <a href="https://perseusyrcabogados.com/legal.html" title="Legal">Legal</a>
-  <a href="https://perseusyrcabogados.com/cookies.html" title="Cookies">Cookies</a>
-  <a href="https://perseusyrcabogados.com/terminos.html" title="Términos de uso">Términos de uso</a>
-</p>
