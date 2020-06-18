@@ -85,10 +85,3 @@
 *   Falsedades documentales.
 *   Delitos de corrupción en los negocios.
 *   Delitos contra la Administración Pública: prevaricación, cohecho, corrupción, tráfico de influencias, malversación, defraudaciones, falso testimonio, denuncia falsa, obstrucción a la Justicia.
-
-----------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <a href="https://perseusyrcabogados.com/legal.html" title="Legal">Legal</a>
-  <a href="https://perseusyrcabogados.com/cookies.html" title="Cookies">Cookies</a>
-  <a href="https://perseusyrcabogados.com/terminos.html" title="Términos de uso">Términos de uso</a>
-</p>
