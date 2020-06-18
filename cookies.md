@@ -27,10 +27,3 @@ TIPOS DE COOKIES SEGÚN SU FINALIDAD
 **¿QUÉ TIPOS DE COOKIES UTILIZA ESTA PÁGINA WEB?**
 
 Esta web actualmente no utiliza ningún tipo de cookies.
-
-----------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <a href="https://perseusyrcabogados.com/legal.html" title="Legal">Legal</a>
-  <a href="https://perseusyrcabogados.com/cookies.html" title="Cookies">Cookies</a>
-  <a href="https://perseusyrcabogados.com/terminos.html" title="Términos de uso">Términos de uso</a>
-</p>
