@@ -1,2 +1,0 @@
-# BLOG
-## Listado de posts
