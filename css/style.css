@@ -13,12 +13,18 @@
 	src: url('/css/Px437_IBM_VGA9.ttf') format("truetype");
 	font-weight: bold;
 }
-*/
+
 
 @font-face {
 	font-family: TrajanPro;
 	src: url('/css/TrajanPro-Regular.woff2') format("woff2");
 	font-weight: normal;
+
+@font-face {
+	font-family: TrajanPro;
+	src: url('/css/TrajanPro-Regular.woff2') format("woff2");
+	font-weight: normal;
+*/
 }
 
 
