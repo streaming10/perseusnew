@@ -12,6 +12,7 @@
 
 ### Email:
 info@perseusyrcabogados.com
+[Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
 
 ### Ubicación:
 Calle Juan Flórez, 2, 3ºA, A Coruña
