@@ -452,11 +452,11 @@ div.socio p {
     height: 2.5em;
 }
 
-div#ana {
+div.ana {
     width:45%;
     float:left;
 }
-div#luis {
+div.luis {
     width:45%;
     float:right;
 }
