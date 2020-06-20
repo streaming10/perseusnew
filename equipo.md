@@ -1,3 +1,4 @@
+<h1>EQUIPO</h1>
 <div id="equipo">
     <div class="socio">
         <p>Socia Directora Área Civil y Empresa</p>
