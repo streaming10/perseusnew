@@ -443,3 +443,7 @@ div.socio {
     float:left;
     margin-right:2em;
 }
+
+div.socio img {
+   width:90%;
+}
