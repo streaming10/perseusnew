@@ -436,3 +436,10 @@ hr {
     overflow: auto;
     overflow-x: hidden;
 }
+
+/* Socio */
+div.socio {
+    width:40%;
+    float:left;
+    margin-right:2em;
+}
