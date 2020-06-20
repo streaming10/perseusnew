@@ -447,3 +447,7 @@ div.socio {
 div.socio img {
    width:90%;
 }
+
+div.socio p {
+    height: 2.5em;
+}
