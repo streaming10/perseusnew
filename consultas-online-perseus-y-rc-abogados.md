@@ -1,6 +1,6 @@
 # Consultas jurídicas online de Perseus y RC Abogados
 
-Nuestro despacho posee aplicaciones y protocolos seguros para fijar citas y realizar consultas jurídicas.
+Nuestro despacho posee aplicaciones y protocolos seguros para fijar citas y realizar consultas jurídicas online.
 
 Envíenos un email a *info@perseusyrcabogados.com* y le facilitaremos el enlace personalizado para realizar la comunicación cumpliendo con la normativa vigente del RGPD, LOPDGDD y el Código Deontológico de la Abogacía Española.
 
