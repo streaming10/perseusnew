@@ -1,3 +1,15 @@
+---
+title: Área Civil
+date: 2020-23-20 00:00:00 +0000
+categories: []
+description: Área Civil de Perses & RC Abogados
+banner_image: ""
+sub_heading: Área Civil de Perses & RC Abogados
+tags:
+- Área Civil
+slug: ''
+---
+
 # CIVIL
 
 *   Contratación civil y Derecho de las obligaciones.
