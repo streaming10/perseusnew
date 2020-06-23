@@ -1,4 +1,4 @@
-## CONTACTO
+# CONTACTO
 
 ### Teléfono:
 +34 661 099 122
