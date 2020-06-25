@@ -8,6 +8,7 @@ sub_heading: Equipo de Perseus & RC Abogados
 tags:
 - Equipo
 slug: ''
+keywords: equipo
 ---
 
 <h1>EQUIPO</h1>
