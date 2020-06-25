@@ -2,7 +2,7 @@
 
 ## El posicionamiento de terminales móviles. Cómo obtener los datos que posee la operadora.
 
-**Uno de los grandes problemas desde el punto de vista jurídico es la inseguridad a la hora de solicitar información a las operadoras acerca de los datos que posee un determinado terminal móvil, en concreto en el presente artículo nos referiremos exclusivamente a los concernientes al posicionamiento.**
+Uno de los grandes problemas desde el punto de vista jurídico es la inseguridad a la hora de solicitar información a las operadoras acerca de los datos que posee un determinado terminal móvil, en concreto en el presente artículo nos referiremos exclusivamente a los concernientes al posicionamiento.
 
 Independientemente de si se es juez, fiscal, letrado o FCSE, este es un problema común a todos. Al no haber unos criterios claros fijados a nivel normativo o jurisprudencial sobre qué datos debe almacenar y facilitar -de forma entendible y legible- la operadora de telefonía por  _razones de interés público_  (art. 21.6 del nuevo RGPD) en relación a un determinado usuario que esté siendo investigado en un proceso judicial.
 
