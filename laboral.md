@@ -1,3 +1,17 @@
+---
+title: Laboral
+url: https://perseusyrcabogados.com/laboral.html
+date: 2020-23-20 00:00:00 +0000
+categories: []
+description: Laboral de Perseus & RC Abogados
+banner_image: ""
+sub_heading: Laboral de Perseus & RC Abogados
+tags:
+- laboral
+slug: ''
+keywords: laboral
+---
+
 # LABORAL
 
 *   Despidos disciplinarios.
