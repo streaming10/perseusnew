@@ -450,8 +450,3 @@ div#luis {
     width:45%;
     float:right;
 }
-
-nav a, button {
-	min-width: 48 px;
-	min-height: 48 px;
-}
