@@ -1,18 +1,3 @@
----
-title: Perseus y RC Abogados
-url: https://perseusyrcabogados.com
-date: 2020-06-07 00:00:00 +0000
-categories: []
-description: Perseus y RC Abogados
-banner_image: ""
-sub_heading: Perseus & RC Abogados
-tags:
-- Perseus & RC Abogados
-slug: ''
-keywords: perseus y rc abogados
----
-
-
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
 *Perseus & RC Abogados*, es una firma especializada en delitos informáticos, reclamaciones civiles y asesoramiento jurídico a empresas. Caracterizado desde su creación por la vocación de los socios en sus respectivas áreas legales y dotados de una alta calidad técnico-jurídica. En nuestro despacho el compromiso, dedicación y seriedad son valores clave. 
