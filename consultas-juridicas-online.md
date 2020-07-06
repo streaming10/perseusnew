@@ -1,6 +1,6 @@
 ---
 title: Consultas jurídicas online de Perseus y RC Abogados
-url: https://perseusyrcabogados.com/consultas-online-perseus-y-rc-abogados.html
+url: https://perseusyrcabogados.com/consultas-juridicas-online.html
 date: 2020-23-20 00:00:00 +0000
 categories: []
 description: Consultas jurídicas online de Perseus & RC Abogados
