@@ -3,7 +3,7 @@ title: Perseus y RC Abogados
 url: https://perseusyrcabogados.com
 date: 2020-06-07 00:00:00 +0000
 categories: []
-description: Perseus & RC Abogados
+description: Perseus y RC Abogados
 banner_image: ""
 sub_heading: Perseus & RC Abogados
 tags:
