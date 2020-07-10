@@ -1,7 +1,7 @@
-<meta name="title" content="Perseus & RC Abogados penalistas A Coruña, delitos informáticos">
-<meta name="description" content="Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles">
-<meta property="og:description" content="Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles">
-<meta name="keywords" content="abogados, penalistas, abogados penalistas A Coruña, delitos informaticos">
+<meta name="title" content="Perseus & RC Abogados penalistas A Coruña, delitos informáticos" />
+<meta name="description" content="Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles" />
+<meta property="og:description" content="Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles" />
+<meta name="keywords" content="abogados, penalistas, abogados penalistas A Coruña, delitos informaticos" />
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
