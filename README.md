@@ -1,4 +1,4 @@
-<title>Perseus & RC Abogados penalistas A Coruña, delitos informáticos</title>
+<meta name="title" content="Perseus & RC Abogados penalistas A Coruña, delitos informáticos">
 <meta name="description" content="Abogados penalistas A Coruña">
 <meta name="keywords" content="abogados, penalistas, abogados penalistas A Coruña, delitos informaticos">
 
