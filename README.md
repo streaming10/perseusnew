@@ -1,5 +1,6 @@
 <meta name="title" content="Perseus & RC Abogados penalistas A Coruña, delitos informáticos">
-<meta property="og:description"  content="Abogados penalistas A Coruña" />
+<meta name="description" content="Abogados penalistas A Coruña">
+<meta property="og:description" content="Abogados penalistas A Coruña">
 <meta name="keywords" content="abogados, penalistas, abogados penalistas A Coruña, delitos informaticos">
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
