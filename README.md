@@ -1,7 +1,16 @@
-<meta name="title" content="Perseus & RC Abogados penalistas A Coruña, delitos informáticos" />
-<meta name="description" content="Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles" />
-<meta property="og:description" content="Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles" />
-<meta name="keywords" content="abogados, penalistas, abogados penalistas A Coruña, delitos informaticos" />
+---
+title: Perseus & RC Abogados penalistas A Coruña, delitos informáticos
+url: https://perseusyrcabogados.com
+date: 2020-23-20 00:00:00 +0000
+categories: []
+description: Abogados penalistas A Coruña especializados en delitos informáticos, reclamaciones civiles
+banner_image: ""
+sub_heading: Perseus & RC Abogados
+tags:
+- Perseus & RC Abogados
+slug: ''
+keywords: abogados, penalistas, abogados penalistas A Coruña, delitos informaticos
+---
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
