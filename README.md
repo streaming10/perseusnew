@@ -1,4 +1,4 @@
-<p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus" style="width:650px; margin:0 auto;" /></p>
+<p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
 # Perseus & RC Abogados A Coruña
 
