@@ -1,4 +1,3 @@
-<h1> HOLA </h1>
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
 # Perseus & RC Abogados A Coruña
@@ -23,3 +22,5 @@ Calle Juan Flórez, 2, 3ºA, A Coruña
 ## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS ONLINE")
 
 **Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS JURÍDICAS ONLINE")
+
+[PERSEUS & RC ABOGADOS](https://perseusyrcabogados.com "PERSEUS & RC ABOGADOS")
