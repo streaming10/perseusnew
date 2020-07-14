@@ -12,7 +12,7 @@ slug: ''
 keywords: Áreas
 ---
 
-# [ÁREAS DEL DESPACHO](https://perseusyrcabogados.com/areas.html "ÁREAS DEL DESPACHO")
+# ÁREAS DEL DESPACHO
 
 ### - [Civil](https://perseusyrcabogados.com/civil.html "- Civil")
    
