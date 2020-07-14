@@ -1,11 +1,11 @@
 ---
-title: Perseus & RC Abogados
+title: Perseus & RC Abogados penalistas A Coruña, delitos informáticos
 url: https://perseusyrcabogados.com
 date: 2020-23-20 00:00:00 +0000
 description: Perseus & RC Abogados
 sub_heading: Perseus & RC Abogados
 banner_image: ""
-keywords: Perseus & RC Abogados
+keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informáticos, abogados penalistas, abogados
 ---
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
