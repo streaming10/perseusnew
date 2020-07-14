@@ -450,3 +450,7 @@ div#luis {
     width:45%;
     float:right;
 }
+span.invertirTexto {
+    unicode-bidi: bidi-override;
+    direction: rtl;
+}
