@@ -11,10 +11,10 @@ Todos los datos que nos facilites se incorporarán a un fichero creado y manteni
 *   Titular: LUIS JURADO CANO
 *   NIF: 49040412L
 *   Domicilio: Calle Juan Flórez nº 2, 3º, 15004, A Coruña.
-*   Correo electrónico: luisjurado@icacor.es, info@perseusyrcabogados.com
+*   Correo electrónico: info@ perseusyrcabogados.com
 *   Páginas web: [perseusyrcabogados.com](https://perseusyrcabogados.com)
 
-Perseus & RC Abogados ha nombrado un Delegado de Protección de Datos ante el cual puedes poner de manifiesto cualquier cuestión relativa que tengas al tratamiento de tus datos personales. Puedes contactar con nuestro a través del siguiente correo electrónico info@perseusyrcabogados.com
+Perseus & RC Abogados ha nombrado un Delegado de Protección de Datos ante el cual puedes poner de manifiesto cualquier cuestión relativa que tengas al tratamiento de tus datos personales. Puedes contactar con nuestro a través del siguiente correo electrónico info@ perseusyrcabogados.com
 
 ### Recopilación de datos de carácter personal
 
@@ -56,7 +56,7 @@ A menos que así lo exija la legislación aplicable, no facilitaremos tu informa
 
 ### ¿Cuáles son tus derechos cuando nos facilitas tus datos?
 
-La política de privacidad de Perseus & RC Abogados te asegura, en todo caso, el ejercicio de tus derechos en los términos establecidos en la legislación vigente. Puedes hacerlo dirigiendo un escrito a LUIS JURADO CANO, Calle Juan Flórez nº 2, 3º, 15004, A Coruña, o bien enviando un correo electrónico a [info@perseusyrcabogados.com](mailto:info@perseusyrcabogados.com)
+La política de privacidad de Perseus & RC Abogados te asegura, en todo caso, el ejercicio de tus derechos en los términos establecidos en la legislación vigente. Puedes hacerlo dirigiendo un escrito a LUIS JURADO CANO, Calle Juan Flórez nº 2, 3º, 15004, A Coruña, o bien enviando un correo electrónico a [info@ perseusyrcabogados.com](mailto:info@ perseusyrcabogados.com)
 
 Concretamente, cualquier persona tiene derecho a:
 
