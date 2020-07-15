@@ -23,7 +23,7 @@ Asumimos un compromiso de seguimiento permanente en cada uno de nuestros casos, 
 +34 661 099 122
 
 ### Email:
-<span class="invertirTexto">moc.sodagobacrysuesrep@ofni</span>
+info@ perseusyrcabogados.com
 [Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
 
 ### Ubicación:
