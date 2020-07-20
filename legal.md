@@ -1,3 +1,19 @@
+---
+title: Política de privacidad
+url: https://perseusyrcabogados.com/legal.html
+date: 2020-23-20 00:00:00 +0000
+type:
+image:
+categories: []
+description: Política de privacidad de Perseus & RC Abogados
+banner_image: ""
+sub_heading: Política de privacidad de Perseus & RC Abogados
+tags:
+- Política de privacidad
+slug: ''
+keywords: politica de privacidad
+---
+
 # **Política de privacidad**
 
 **Perseus & RC Abogados**, se compromete a garantizar la seguridad y confidencialidad de los datos de carácter personal facilitados por sus clientes y usuarios de acuerdo con las leyes de protección de datos y privacidad.
