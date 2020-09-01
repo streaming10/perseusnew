@@ -9,7 +9,6 @@ sub_heading: Perseus & RC Abogados
 banner_image: ""
 keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informáticos, abogados penalistas, abogados
 ---
-<link rel="canonical" href="https://perseusyrcabogados.com/" />
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
 
