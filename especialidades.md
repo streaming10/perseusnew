@@ -14,6 +14,6 @@ keywords: especialidades del despacho
 
 # ESPECIALIDADES
 
-## - [Delitos informáticos](https://perseusyrcabogados.com/delitos-informaticos.html "Delitos informáticos")
+## - [Delitos informáticos](https://perseusyrcabogados.com/delitos-informaticos "Delitos informáticos")
 
-## - [Reclamación de cantidad](https://perseusyrcabogados.com/reclamacion-de-cantidad.html "Reclamación de cantidad")
+## - [Reclamación de cantidad](https://perseusyrcabogados.com/reclamacion-de-cantidad "Reclamación de cantidad")
