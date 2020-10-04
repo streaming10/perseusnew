@@ -19,7 +19,7 @@ Es una firma especializada en delitos informáticos, reclamaciones civiles y ase
 Asumimos un compromiso de seguimiento permanente en cada uno de nuestros casos, otorgando un valor añadido a nuestros clientes. Sabemos que ante problemas complejos debemos dar soluciones eficaces. Por eso, además de brindar nuestros servicios legales, disponemos de otros servicios especializados que complementan nuestra labor jurídica, para dar una respuesta integral y satisfactoria a los problemas de nuestros clientes.
 
 
-## [CONTACTO](https://perseusyrcabogados.com/contacto.html "CONTACTO")
+## [CONTACTO](https://perseusyrcabogados.com/contacto "CONTACTO")
 
 ### Teléfono:
 +34 661 099 122
@@ -31,6 +31,6 @@ info@ perseusyrcabogados.com
 ### Ubicación:
 Calle Juan Flórez, 2, 3ºA, A Coruña
 
-## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS ONLINE")
+## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS ONLINE")
 
-**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS JURÍDICAS ONLINE")
+**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS JURÍDICAS ONLINE")
