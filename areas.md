@@ -14,8 +14,8 @@ keywords: Áreas
 
 # ÁREAS DEL DESPACHO
 
-## - [Civil](https://perseusyrcabogados.com/civil.html "- Civil")
+## - [Civil](https://perseusyrcabogados.com/civil "- Civil")
    
-## - [Laboral](https://perseusyrcabogados.com/laboral.html "Laboral")
+## - [Laboral](https://perseusyrcabogados.com/laboral "Laboral")
 
-## - [Penal](https://perseusyrcabogados.com/penal.html "Penal")
+## - [Penal](https://perseusyrcabogados.com/penal "Penal")
