@@ -1,7 +1,7 @@
 ---
 title: Política de privacidad
 url: https://perseusyrcabogados.com/legal.html
-date: 2020-23-20 00:00:00 +0000
+date: 2021-02-03 00:00:00 +0000
 type:
 image:
 categories: []
@@ -26,7 +26,7 @@ Todos los datos que nos facilites se incorporarán a un fichero creado y manteni
 
 *   Titular: LUIS JURADO CANO
 *   NIF: 49040412L
-*   Domicilio: Calle Juan Flórez nº 2, 3º, 15004, A Coruña.
+*   Domicilio: Calle Torreiro, nº 13, 3ºC, 15001, A Coruña
 *   Correo electrónico: info@ perseusyrcabogados.com
 *   Páginas web: [perseusyrcabogados.com](https://perseusyrcabogados.com)
 
@@ -112,4 +112,4 @@ Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicació
 
 Fecha publicación: 10 de junio de 2020
 
-Fecha de actualización: 14 de junio de 2020
+Fecha de actualización: 03 de febrero de 2021
