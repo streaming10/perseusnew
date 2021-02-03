@@ -1,7 +1,7 @@
 ---
 title: Perseus & RC Abogados penalistas A Coruña, delitos informáticos
 url: https://perseusyrcabogados.com
-date: 2020-23-20 00:00:00 +0000
+date: 2021-02-02 00:00:00 +0000
 type: website
 image: https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png
 description: Abogados penalistas A Coruña, delitos informáticos, responsabilidad civil, asesoramiento jurídico a empresas
@@ -29,7 +29,7 @@ info@ perseusyrcabogados.com
 [Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
 
 ### Ubicación:
-Calle Juan Flórez, 2, 3ºA, A Coruña
+Calle Torreiro, nº 13, 3ºC, 15001, A Coruña
 
 ## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS ONLINE")
 
