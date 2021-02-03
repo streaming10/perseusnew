@@ -19,7 +19,7 @@ info@ perseusyrcabogados.com
 [Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
 
 ### Ubicación:
-Calle Juan Flórez, 2, 3ºA, A Coruña
+Calle Torreiro, nº 13, 3ºC, 15001, A Coruña
 
 ## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS ONLINE")
 
