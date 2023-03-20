@@ -6,4 +6,5 @@
 /*.gif
 /*.svg
 /*.png
+/img/*.png
 Cache-Control: max-age=31536000
