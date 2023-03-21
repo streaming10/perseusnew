@@ -14,12 +14,11 @@ keywords: Áreas
 
 # ÁREAS DEL DESPACHO
 
-## - [Civil](https://perseusyrcabogados.com/areas-de-practica/civil "- Civil")
-   
+## - [Civil](https://perseusyrcabogados.com/areas-de-practica/civil "Civil")
+   ### -- [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas")
+   ### -- [Derecho de familia](https://perseusyrcabogados.com/areas-de-practica/derecho-de-familia "Derecho de familia")
+
 ## - [Penal](https://perseusyrcabogados.com/areas-de-practica/penal "Penal")
+   ### -- [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
 
 ## - [Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Laboral")
-
-## - [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
-
-## - [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas")
