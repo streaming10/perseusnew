@@ -1,6 +1,6 @@
-## Acerca de Perseus & RC Abogados: Su Bufete de Confianza en A Coruña
+# Acerca de Perseus & RC Abogados: Su Bufete de referencia en A Coruña
 
-**Perseus & RC Abogados** es un prestigioso despacho de abogados en A Coruña, que combina experiencia, excelencia y compromiso para brindar a sus clientes servicios legales de la más alta calidad. Fundado por un equipo de profesionales del derecho altamente capacitados, nuestro bufete se ha consolidado como un referente en el ámbito jurídico en la región.
+**Perseus & RC Abogados** es un prestigioso despacho de abogados en A Coruña, que combina experiencia, excelencia y compromiso para brindar a sus clientes servicios legales de la más alta calidad. Fundado por un equipo de profesionales del derecho altamente capacitados, nuestro despacho se ha consolidado como un referente en el ámbito jurídico en la región.
 
 Con una amplia gama de especialidades, que incluyen el Derecho Penal, Derecho Civil, Derecho Laboral, Derecho de Familia, Delitos Informáticos y Recuperación de Deudas, **Perseus & RC Abogados** se dedica a proporcionar soluciones legales efectivas y personalizadas para satisfacer las necesidades individuales de cada cliente.
 
