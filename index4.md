@@ -47,5 +47,10 @@ En Perseus & RC Abogados, estamos disponibles para atender tus consultas y ofrec
 - Visítanos en nuestra oficina: estamos ubicados en Calle Torreiro 13, 3C, 15001, A Coruña.
 - Llámanos al **(+34) 661 099 122**: estaremos encantados de atenderte y responder a todas tus preguntas.
 - Envíanos un correo electrónico a **info @perseusyrcabogados.com**: te responderemos a la brevedad posible.
+  [Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
 
-En Perseus & RC Abogados estamos siempre dispuestos a ayudarte y ofrecerte el mejor servicio en el ámbito del derecho penal. Contáctanos hoy mismo para programar una consulta gratuita y obtener más información sobre nuestros servicios.
+### [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS ONLINE")
+
+**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS JURÍDICAS ONLINE")
+
+En Perseus & RC Abogados estamos siempre dispuestos a ayudarte y ofrecerte el mejor servicio en el ámbito jurídico. Contáctanos hoy mismo para programar una consulta y obtener más información sobre nuestros servicios.
