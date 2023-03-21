@@ -1,15 +1,22 @@
 ---
-title: reas de práctica en Perseus y RC Abogados
+title: Áreas de práctica en Perseus y RC Abogados
 url: https://perseusyrcabogados.com/areas-de-practica
 date: 2020-23-20 00:00:00 +0000
 categories: []
 description: Perseus y RC Abogados es un despacho especializado en derecho civil, penal y laboral. Descubre nuestras áreas de práctica y cómo podemos ayudarte.
 banner_image: ""
 sub_heading: Áreas de práctica en Perseus y RC Abogados
-tags: derecho civil, derecho penal, delitos informáticos, recuperación de deudas, derecho laboral, derecho de familia, Perseus y RC Abogados
-- Áreas
+tags:
+  - derecho civil
+  - derecho penal
+  - delitos informáticos
+  - recuperación de deudas
+  - derecho laboral
+  - derecho de familia
+  - Perseus y RC Abogados
 slug: ''
-keywords: Áreas
+keywords:
+  - Áreas
 ---
 
 # Áreas de práctica en Perseus y RC Abogados
