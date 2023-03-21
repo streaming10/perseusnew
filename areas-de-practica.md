@@ -1,45 +1,24 @@
 ---
-title: Áreas
-url: https://perseusyrcabogados.com/areas.html
+title: reas de práctica en Perseus y RC Abogados
+url: https://perseusyrcabogados.com/areas-de-practica
 date: 2020-23-20 00:00:00 +0000
 categories: []
-description: Áreas de Perseus & RC Abogados
+description: Perseus y RC Abogados es un despacho especializado en derecho civil, penal y laboral. Descubre nuestras áreas de práctica y cómo podemos ayudarte.
 banner_image: ""
-sub_heading: Áreas de Perseus & RC Abogados
-tags:
+sub_heading: Áreas de práctica en Perseus y RC Abogados
+tags: derecho civil, derecho penal, delitos informáticos, recuperación de deudas, derecho laboral, derecho de familia, Perseus y RC Abogados
 - Áreas
 slug: ''
 keywords: Áreas
 ---
 
-# ÁREAS DEL DESPACHO
+# Áreas de práctica en Perseus y RC Abogados
 
-## - [Civil](https://perseusyrcabogados.com/areas-de-practica/civil "Civil")
-   ### -- [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas")
-   ### -- [Derecho de familia](https://perseusyrcabogados.com/areas-de-practica/derecho-de-familia "Derecho de familia")
+- [Derecho Civil](https://perseusyrcabogados.com/areas-de-practica/civil "Derecho Civil en Perseus y RC Abogados")
+   - [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas en Perseus y RC Abogados")
+   - [Derecho de familia](https://perseusyrcabogados.com/areas-de-practica/derecho-de-familia "Derecho de familia en Perseus y RC Abogados")
+- [Derecho Penal](https://perseusyrcabogados.com/areas-de-practica/penal "Derecho Penal en Perseus y RC Abogados")
+   - [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos en Perseus y RC Abogados")
+- [Derecho Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Derecho Laboral en Perseus y RC Abogados")
 
-## - [Penal](https://perseusyrcabogados.com/areas-de-practica/penal "Penal")
-   ### -- [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
-
-## - [Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Laboral")
-
-
-# ÁREAS DEL DESPACHO
-
-## - [Civil](https://perseusyrcabogados.com/areas-de-practica/civil "Civil")
-   ### -- [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas")
-   
-## - [Penal](https://perseusyrcabogados.com/areas-de-practica/penal "Penal")
-   ### -- [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
-
-## - [Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Laboral")
-
-# ÁREAS DEL DESPACHO
-
-- [Civil](https://perseusyrcabogados.com/areas-de-practica/civil "Civil")
-   - [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas")
-   - [Derecho de familia](https://perseusyrcabogados.com/areas-de-practica/derecho-de-familia "Derecho de familia")
-- [Penal](https://perseusyrcabogados.com/areas-de-practica/penal "Penal")
-   - [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
-- [Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Laboral")
 
