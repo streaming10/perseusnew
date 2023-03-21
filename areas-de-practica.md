@@ -22,3 +22,14 @@ keywords: Áreas
    ### -- [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
 
 ## - [Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Laboral")
+
+
+# ÁREAS DEL DESPACHO
+
+## - [Civil](https://perseusyrcabogados.com/areas-de-practica/civil "Civil")
+   ### -- [Recuperación de deudas](https://perseusyrcabogados.com/areas-de-practica/recuperacion-de-deudas "Recuperación de deudas")
+   
+## - [Penal](https://perseusyrcabogados.com/areas-de-practica/penal "Penal")
+   ### -- [Delitos informáticos](https://perseusyrcabogados.com/areas-de-practica/delitos-informaticos "Delitos informáticos")
+
+## - [Laboral](https://perseusyrcabogados.com/areas-de-practica/laboral "Laboral")
