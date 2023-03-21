@@ -3,7 +3,6 @@
 <head>
 	<title>{{ page.title }}</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline';">
 	<meta name="Generator"    content="Web 1.0" />
 	<link rel="canonical" href="https://perseusyrcabogados.com{{ page.url }}" />
 	<link rel="shortcut icon" href="/img/logo-rrss.png" type="image/x-icon" />
@@ -98,13 +97,6 @@
 
      {{content}}
 		
-<!-- Reporte de violación de CSP -->
-  <script>
-    window.addEventListener('securitypolicyviolation', function(event) {
-      var reporte = JSON.stringify(event.detail);
-      // Envía el reporte a tu servidor
-    });
-  </script>
 </div>
 
 <footer>
