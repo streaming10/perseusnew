@@ -11,6 +11,7 @@ tags:
 slug: ''
 keywords: equipo
 ---
+
 <style>
     #equipo {
         display: flex;
