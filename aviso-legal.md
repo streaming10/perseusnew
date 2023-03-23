@@ -26,6 +26,7 @@ Todos los datos que nos facilites se incorporarán a un fichero creado y manteni
 
 *   Titular: LUIS JURADO CANO
 *   NIF: 49040412L
+*   Nº Colegio de abogados: 6317 ICACOR
 *   Domicilio: Calle Torreiro, nº 13, 3ºC, 15001, A Coruña
 *   Correo electrónico: info@ perseusyrcabogados.com
 *   Páginas web: [perseusyrcabogados.com](https://perseusyrcabogados.com)
