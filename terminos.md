@@ -17,7 +17,8 @@ A través de los presentes términos de uso, se pretende regular el acceso y uso
 ## 2- Condiciones de uso de la página web
 
 Accediendo a esta página web se aceptan sus términos y condiciones de uso. El acceso a esta página web es responsabilidad exclusiva de los USUARIOS. En este sentido el USUARIO se obliga a usar los contenidos y servicios ofrecidos de forma diligente, correcta y lícita. En particular, el USUARIO no utilizará la página web para ningún propósito ilegal y dispondrá de los contenidos a los que acceda para uso estrictamente personal.  
-El simple acceso a esta página web no supone entablar ningún tipo de relación comercial entre Perseus & RC AbogadosN y el USUARIO. El acceso y la navegación en esta página web supone aceptar y conocer las advertencias legales, condiciones y términos de uso publicadas en cada momento.
+El simple acceso a esta página web no supone entablar ningún tipo de relación comercial entre Perseus & RC Abogados y el USUARIO. El acceso y la navegación en esta página web supone aceptar y conocer las advertencias legales, condiciones y términos de uso publicadas en cada momento.
+El usuario/cliente reconoce y acepta expresamente que, dada la naturaleza del servicio contratado, no podrá ejercer su derecho de desistimiento una vez iniciada la prestación del mismo.
 
 ## 3- Propiedad intelectual e industrial
 
