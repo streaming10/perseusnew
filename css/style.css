@@ -178,7 +178,7 @@ h2 {
 */  
   font-weight: 600;
   line-height:1.0em;
-  color: #386ab0;
+  color: #3c6eaa;
   font-size: 24px;
 
 }
@@ -197,7 +197,7 @@ h3 {
 */
   font-weight: 600;
   line-height:1.0em;
-  color: #386ab0;
+  color: #3c6eaa;
   font-size: 20px;
 
 }
@@ -301,7 +301,7 @@ hr {
 
 #main-navigation a:hover,
 #main-navigation li a.active, #main-navigation li a.active-trail {
-  color: #888888;
+  color: #3c6eaa;
   background-color: #FFFFFF;
   text-decoration: underline;
 }
