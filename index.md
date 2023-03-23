@@ -51,26 +51,6 @@ En Perseus & RC Abogados, estamos disponibles para atender tus consultas y ofrec
 
 ### [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS ONLINE")
 
-**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad <div class="contenedor-btn">
-  <a href="https://perseusyrcabogados.com/consulta-juridica-online" class="btn-accion">Haz clic aquí</a>
-</div>
+**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online "CONSULTAS JURÍDICAS ONLINE")
 
 En Perseus & RC Abogados estamos siempre dispuestos a ayudarte y ofrecerte el mejor servicio en el ámbito jurídico. Contáctanos hoy mismo para programar una consulta y obtener más información sobre nuestros servicios.
-
-<style>
-  .btn-accion {
-    display: inline-block;
-    background-color: #007bff;
-    color: white;
-    font-weight: bold;
-    text-decoration: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
-  }
-
-  .btn-accion:hover {
-    background-color: #0056b3;
-  }
-</style>
-
