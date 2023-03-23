@@ -122,7 +122,7 @@ html {
 }
 
 body {
-  color: #6c757d;
+  color: #2c3e50;
   background-color: #eceff7;
   text-decoration: none;
   margin: 0;
@@ -291,7 +291,7 @@ hr {
 
 #main-navigation a {
   display: block;
-  color: #24292E;
+  color: #1b3964;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 14px;
