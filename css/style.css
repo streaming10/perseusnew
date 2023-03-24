@@ -454,3 +454,9 @@ span.invertirTexto {
     unicode-bidi: bidi-override;
     direction: rtl;
 }
+
+img.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
