@@ -18,19 +18,24 @@ keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informá
 
 ## Especialistas en Delitos Informáticos, Recuperación de Deudas, Derecho Civil y Penal, y Derecho Laboral
 
-Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en [A Coruña](https://www.coruna.gal/). Somos un equipo de profesionales especializados en diversas áreas del derecho, como los delitos informáticos, recuperación de deudas, derecho civil y penal, y derecho laboral, comprometidos con ofrecerte un servicio jurídico de calidad y excelencia en nuestra ciudad.
+Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en [A Coruña](https://www.coruna.gal/). Somos un equipo de profesionales especializados en diversas áreas del derecho, como los delitos informáticos, recuperación de deudas, derecho civil, penal y derecho laboral, comprometidos con ofrecerte un servicio jurídico de calidad y excelencia en nuestra ciudad.
 
-### Nuestros Servicios Legales
+## Nuestros Servicios Legales
 
-- **Delitos Informáticos**: Asesoramiento y representación en casos relacionados con ciberdelitos, como estafas en línea, phishing, acceso ilegal a sistemas, robo de datos y ataques informáticos.
+### [Delitos Informáticos](/delitos-informaticos)
+Asesoramiento y representación en casos relacionados con ciberdelitos, como estafas en línea, phishing, acceso ilegal a sistemas, robo de datos y ataques informáticos.
 
-- **Recuperación de Deudas**: Gestión y negociación de cobros extrajudiciales, reclamaciones judiciales de impagos, ejecución de garantías y embargos, e insolvencias.
+### [Recuperación de Deudas](/recuperacion-de-deudas)
+Gestión y negociación de cobros extrajudiciales, reclamaciones judiciales de impagos, ejecución de garantías y embargos, e insolvencias.
 
-- **Derecho Civil**: Asesoramiento y representación en asuntos relacionados con contratos, responsabilidad civil, propiedad, arrendamientos, herencias y sucesiones, entre otros.
+### [Derecho Civil](/derecho-civil)
+Asesoramiento y representación en asuntos relacionados con contratos, responsabilidad civil, propiedad, arrendamientos, herencias y sucesiones, entre otros.
 
-- **Derecho Penal**: Defensa y acusación en delitos, asistencia al detenido, juicios rápidos, procedimientos abreviados y ordinarios, y recursos penales.
+### [Derecho Penal](/derecho-penal)
+Defensa y acusación en delitos, asistencia al detenido, juicios rápidos, procedimientos abreviados y ordinarios, y recursos penales.
 
-- **Derecho Laboral**: Defensa y asesoramiento en despidos, reclamaciones de cantidad, incapacidades, sanciones, acoso laboral y negociación de convenios colectivos.
+### [Derecho Laboral](/derecho-laboral)
+Defensa y asesoramiento en despidos, reclamaciones de cantidad, incapacidades, sanciones, acoso laboral y negociación de convenios colectivos.
 
 ### ¿Por qué elegir a Perseus & RC Abogados en A Coruña?
 
