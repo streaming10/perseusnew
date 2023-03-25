@@ -11,7 +11,7 @@ keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informá
 ---
 
 <p style="text-align:center">
-  <img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus" class="responsive">
+  <img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus" class="responsive logo-perseus">
 </p>
 
 <p style="text-align:center; font-size: 2em; font-weight: bold;">Perseus &amp; RC Abogados: Tu Despacho de Abogados en A Coruña</p>
