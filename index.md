@@ -25,9 +25,6 @@ Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en [A Coruña](h
 ### [Delitos Informáticos](/delitos-informaticos)
 Asesoramiento y representación en casos relacionados con ciberdelitos, como estafas en línea, phishing, acceso ilegal a sistemas, robo de datos y ataques informáticos.
 
-### [Recuperación de Deudas](/recuperacion-de-deudas)
-Gestión y negociación de cobros extrajudiciales, reclamaciones judiciales de impagos, ejecución de garantías y embargos, e insolvencias.
-
 ### [Derecho Civil](/derecho-civil)
 Asesoramiento y representación en asuntos relacionados con contratos, responsabilidad civil, propiedad, arrendamientos, herencias y sucesiones, entre otros.
 
@@ -36,6 +33,9 @@ Defensa y acusación en delitos, asistencia al detenido, juicios rápidos, proce
 
 ### [Derecho Laboral](/derecho-laboral)
 Defensa y asesoramiento en despidos, reclamaciones de cantidad, incapacidades, sanciones, acoso laboral y negociación de convenios colectivos.
+
+### [Recuperación de Deudas](/recuperacion-de-deudas)
+Gestión y negociación de cobros extrajudiciales, reclamaciones judiciales de impagos, ejecución de garantías y embargos, e insolvencias.
 
 ### ¿Por qué elegir a Perseus & RC Abogados en A Coruña?
 
