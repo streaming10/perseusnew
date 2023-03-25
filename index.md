@@ -14,9 +14,7 @@ keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informá
   <img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="Logo de Perseus & RC Abogados en A Coruña" class="responsive logo-perseus">
 </p>
 
-<p style="text-align:center; font-size: 2em; font-weight: bold;">Perseus &amp; RC Abogados: Tu Despacho de Abogados en A Coruña</p>
-
-# Perseus & RC Abogados: Tu Despacho de Abogados en A Coruña
+<h1 style="text-align:center; font-size: 2em; font-weight: bold;">Perseus &amp; RC Abogados: Tu Despacho de Abogados en A Coruña</h1>
 
 ## Especialistas en Delitos Informáticos, Recuperación de Deudas, Derecho Civil y Penal, y Derecho Laboral
 
