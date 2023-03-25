@@ -1,13 +1,13 @@
 ---
-title: Perseus & RC Abogados penalistas A Coruña, delitos informáticos
+title: Perseus & RC Abogados - Delitos Informáticos, Derecho Civil, Penal, Laboral y Recuperación de Deudas en A Coruña
 url: https://perseusyrcabogados.com
 date: 2023-03-25 00:00:00 +0000
 type: website
 image: https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png
-description: Abogados penalistas A Coruña, delitos informáticos, responsabilidad civil, asesoramiento jurídico a empresas
+description: Perseus & RC Abogados en A Coruña ofrece servicios especializados en delitos informáticos, derecho civil, penal, laboral y recuperación de deudas. Consulta con nuestros expertos hoy
 sub_heading: Perseus & RC Abogados
 banner_image: ""
-keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informáticos, abogados penalistas, abogados
+keywords: abogados penalistas a coruña, delitos informáticos a coruña, abogados penalistas, delitos informáticos, Perseus & RC Abogados
 ---
 
 <p style="text-align:center">
@@ -16,7 +16,7 @@ keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informá
 
 <h1 style="text-align:center; font-size: 2em; font-weight: bold;">Perseus &amp; RC Abogados: Tu Despacho de Abogados en A Coruña</h1>
 
-## Especialistas en Delitos Informáticos, Recuperación de Deudas, Derecho Civil y Penal, y Derecho Laboral
+## Especialistas en Delitos Informáticos, Derecho Civil, Penal y Laboral, y Recuperación de Deudas.
 
 Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en [A Coruña](https://www.coruna.gal/). Somos un equipo de profesionales especializados en diversas áreas del derecho, como los delitos informáticos, recuperación de deudas, derecho civil, penal y derecho laboral, comprometidos con ofrecerte un servicio jurídico de calidad y excelencia en nuestra ciudad.
 
