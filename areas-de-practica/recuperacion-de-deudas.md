@@ -1,14 +1,15 @@
 ---
-title: Perseus & RC Abogados - Delitos Informáticos, Derecho Civil, Penal, Laboral y Recuperación de Deudas en A Coruña
-url: https://perseusyrcabogados.com
+title: Recuperación de Deudas en A Coruña - Bufete de Abogados con 10 Años de Experiencia
+url: recuperacion-de-deudas-a-coruna
 date: 2023-03-25 00:00:00 +0000
 type: website
-image: https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png
-description: Perseus & RC Abogados en A Coruña ofrece servicios especializados en delitos informáticos, derecho civil, penal, laboral y recuperación de deudas. Consulta con nuestros expertos hoy
-sub_heading: Perseus & RC Abogados
-banner_image: ""
-keywords: abogados penalistas a coruña, delitos informáticos a coruña, abogados penalistas, delitos informáticos, Perseus & RC Abogados
+image: recuperacion-de-deudas-a-coruna.jpg
+description: Nuestro bufete de abogados en A Coruña ofrece servicios de recuperación de deudas con más de 10 años de experiencia. Contacte con nuestros profesionales para recibir asesoramiento y representación legal en casos de impagos y deudas pendientes.
+sub_heading: Especialistas en Recuperación de Deudas
+banner_image: "recuperacion-de-deudas-banner.jpg"
+keywords: recuperación de deudas, abogados en A Coruña, deudas pendientes, impagos, asesoramiento legal, negociación, representación en juicios
 ---
+
 
 # Recuperación de Deudas en A Coruña - Bufete de Abogados con 10 Años de Experiencia
 
