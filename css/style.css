@@ -460,3 +460,9 @@ img.responsive {
   height: auto;
 }
 
+.logo-perseus {
+  width: 100%; /* Para mantener la imagen responsiva */
+  aspect-ratio: 650 / 190; /* Reemplaza "ancho" y "altura" con los valores numéricos reales */
+}
+
+
