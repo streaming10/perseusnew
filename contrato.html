@@ -62,18 +62,21 @@ Proveedor
     {{ markdown_content | markdownify }}
   </div>
 
-  <button class="button" onclick="printPDF()">Guardar como PDF</button>
+  <button class="button" onclick="saveAsPDF()">Guardar como PDF</button>
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.3.1/jspdf.umd.min.js"></script>
+  <script src="html2pdf.bundle.min.js"></script>
   <script>
-    function printPDF() {
-      const pdf = new jsPDF();
-      const content = document.getElementById('markdown').innerText;
+    function saveAsPDF() {
+      const element = document.getElementById('markdown');
+      const opt = {
+        margin: 1,
+        filename: 'contrato.pdf',
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2 },
+        jsPDF: { unit: 'in', format: 'letter', orientation: 'portrait' }
+      };
 
-      pdf.text(content, 10, 10);
-      pdf.save('contrato.pdf');
+      html2pdf().set(opt).from(element).save();
     }
   </script>
-</body>
-</html>
-
+</body
