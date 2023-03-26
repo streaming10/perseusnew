@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -22,25 +26,7 @@
 </head>
 <body>
   <div id="markdown">
-    <!-- El contenido en formato Markdown irá aquí -->
-  </div>
-
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <script>
-    // Opciones personalizadas para la biblioteca "marked"
-    marked.setOptions({
-      renderer: new marked.Renderer(),
-      pedantic: false,
-      gfm: true,
-      breaks: true,
-      sanitize: false,
-      smartLists: true,
-      smartypants: false,
-      xhtml: true
-    });
-
-    // El contenido del contrato en formato Markdown
-    const markdownContent = `
+    {% capture markdown_content %}
 # Contrato de Ejemplo
 
 Este contrato se celebra entre <span class="editable" contenteditable="true">[Nombre del cliente]</span> (en adelante, "el Cliente") y <span class="editable" contenteditable="true">[Nombre del proveedor de servicios]</span> (en adelante, "el Proveedor").
@@ -60,10 +46,8 @@ Cliente
 \\_____________________________  
 [Nombre del proveedor de servicios]  
 Proveedor
-`;
-
-    // Convierte el contenido de Markdown a HTML y lo inserta en la página
-    document.getElementById('markdown').innerHTML = marked(markdownContent);
-  </script>
+{% endcapture %}
+    {{ markdown_content | markdownify }}
+  </div>
 </body>
 </html>
