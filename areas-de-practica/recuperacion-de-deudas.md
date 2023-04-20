@@ -23,9 +23,9 @@ La recuperación de deudas es un proceso legal en el cual un acreedor busca el p
 
 Nuestros servicios en recuperación de deudas incluyen, pero no se limitan a, los siguientes:
 
-1. \[Asesoramiento legal\](/areas-de-practica/asesoramiento-legal): Evaluamos su caso y le proporcionamos información detallada sobre sus derechos y las acciones que puede tomar para recuperar su dinero.
-2. \[Negociación\](/areas-de-practica/negociacion): Negociamos en su nombre con el deudor para llegar a un acuerdo de pago favorable para ambas partes.
-3. \[Representación en juicios\](/representacion-en-juicios): Si es necesario, llevamos su caso a los tribunales para obtener una resolución judicial y hacer cumplir el pago de la deuda.
+1. [Asesoramiento legal](/areas-de-practica/asesoramiento-legal): Evaluamos su caso y le proporcionamos información detallada sobre sus derechos y las acciones que puede tomar para recuperar su dinero.
+2. [Negociación](/areas-de-practica/negociacion): Negociamos en su nombre con el deudor para llegar a un acuerdo de pago favorable para ambas partes.
+3. [Representación en juicios](/representacion-en-juicios): Si es necesario, llevamos su caso a los tribunales para obtener una resolución judicial y hacer cumplir el pago de la deuda.
 
 ## ¿Por qué elegirnos para la Recuperación de Deudas?
 
