@@ -11,7 +11,7 @@ keywords: abogados penalistas a coruña, delitos informáticos a coruña, abogad
 ---
 
 <p style="text-align:center">
-  <img src="https://user-images.githubusercontent.com/63341181/233452662-6c6ea9f6-f111-4141-a0d7-8a8e40adab36.png" alt="Logo de Perseus & RC Abogados en A Coruña" class="responsive logo-perseus">
+  <img src="https://user-images.githubusercontent.com/63341181/233453431-ea661f68-9a90-441d-a3f9-f23048249d32.png" alt="Logo de Perseus & RC Abogados en A Coruña" class="responsive logo-perseus">
 </p>
 
 <h1 style="text-align:center; font-size: 2em; font-weight: bold;">Perseus &amp; RC Abogados: Tu Despacho de Abogados en A Coruña</h1>
