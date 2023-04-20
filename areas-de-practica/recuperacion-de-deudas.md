@@ -38,6 +38,6 @@ Al confiar en nuestro bufete de abogados de A Coruña para la recuperación de d
 
 ## Contacte con Nuestro Bufete de Abogados en A Coruña
 
-Si necesita asesoramiento legal o representación en un caso de recuperación de deudas, no dude en ponerse en contacto con nosotros. Puede llamarnos al [número de teléfono](tel:numero-de-telefono), enviarnos un correo electrónico a [dirección de correo electrónico](mailto:correo-electronico) o completar nuestro [formulario de contacto](url-formulario-contacto). Estamos comprometidos a ofrecerle un servicio de calidad, con un lenguaje formal y elegante, y resultados efectivos.
+Si necesita asesoramiento legal o representación en un caso de recuperación de deudas, no dude en ponerse en contacto con nosotros. Puede llamarnos al [número de teléfono](tel:+34661099122), enviarnos un correo electrónico a [dirección de correo electrónico](mailto:correo-electronico) o completar nuestro [formulario de contacto](url-formulario-contacto). Estamos comprometidos a ofrecerle un servicio de calidad, con un lenguaje formal y elegante, y resultados efectivos.
 
 Visite nuestras otras páginas para obtener más información sobre nuestros servicios legales en [Derecho Civil](/areas-de-practica/derecho-civil), [Derecho Penal](/areas-de-practica/derecho-penal), y [Derecho Laboral](/areas-de-practica/derecho-laboral).
