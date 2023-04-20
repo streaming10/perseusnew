@@ -22,19 +22,19 @@ Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en [A Coruña](h
 
 ## Nuestros Servicios Legales
 
-### [Delitos Informáticos](/delitos-informaticos)
+### [Delitos Informáticos](/areas-de-practica/delitos-informaticos)
 Asesoramiento y representación en casos relacionados con ciberdelitos, como estafas en línea, phishing, acceso ilegal a sistemas, robo de datos y ataques informáticos.
 
-### [Derecho Civil](/derecho-civil)
+### [Derecho Civil](/areas-de-practica/derecho-civil)
 Asesoramiento y representación en asuntos relacionados con contratos, responsabilidad civil, propiedad, arrendamientos, herencias y sucesiones, entre otros.
 
-### [Derecho Penal](/derecho-penal)
+### [Derecho Penal](/areas-de-practica/derecho-penal)
 Defensa y acusación en delitos, asistencia al detenido, juicios rápidos, procedimientos abreviados y ordinarios, y recursos penales.
 
-### [Derecho Laboral](/derecho-laboral)
+### [Derecho Laboral](/areas-de-practica/derecho-laboral)
 Defensa y asesoramiento en despidos, reclamaciones de cantidad, incapacidades, sanciones, acoso laboral y negociación de convenios colectivos.
 
-### [Recuperación de Deudas](/recuperacion-de-deudas)
+### [Recuperación de Deudas](/areas-de-practica/recuperacion-de-deudas)
 Gestión y negociación de cobros extrajudiciales, reclamaciones judiciales de impagos, ejecución de garantías y embargos, e insolvencias.
 
 ### ¿Por qué elegir a Perseus & RC Abogados en A Coruña?
