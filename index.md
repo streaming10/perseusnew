@@ -18,7 +18,7 @@ keywords: abogados penalistas a coruña, delitos informáticos a coruña, abogad
 
 ## Especialistas en Delitos Informáticos, Derecho Civil, Penal y Laboral, y Recuperación de Deudas.
 
-Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en [A Coruña](https://www.coruna.gal/). Somos un equipo de profesionales especializados en diversas áreas del derecho, como los delitos informáticos, recuperación de deudas, derecho civil, penal y derecho laboral, comprometidos con ofrecerte un servicio jurídico de calidad y excelencia en nuestra ciudad.
+Bienvenido a **Perseus & RC Abogados**, tu despacho de abogados en A Coruña. Somos un equipo de profesionales especializados en diversas áreas del derecho, como los delitos informáticos, recuperación de deudas, derecho civil, penal y derecho laboral, comprometidos con ofrecerte un servicio jurídico de calidad y excelencia en nuestra ciudad.
 
 ## Nuestros Servicios Legales
 
